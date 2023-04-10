@@ -1,1 +1,1 @@
-# Pattern-Recognition_Closed-Curves
+# Pattern-Recognition_Closed-Path
